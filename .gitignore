@@ -1,0 +1,16 @@
+# Reference screenshots (not part of the site)
+Screenshot*.png
+
+# Vercel CLI
+.vercel/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Environment files (never commit secrets such as the Supabase service_role key)
+.env
+.env.*
